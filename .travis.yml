@@ -2,4 +2,4 @@ dist: xenial
 sudo: true
 
 script:
-    - ./lxd.sh 
+    - sudo ./lxd.sh
